@@ -1,6 +1,10 @@
-# Music-Store-Data-Analysis-Project-using-SQL
-	
 
+<img width="594" alt="schema_diagram" src="https://github.com/saisubhamjena/Music-Store-Data-Analysis-Project-using-SQL/assets/124357451/9e4c741f-6643-4792-9d39-f9e8bda7616f">
+
+
+
+# Project Challenges
+	
 ## Question Set 1 
 
 Q1: Who is the senior most employee based on job title? 
